@@ -1,0 +1,16 @@
+*.o
+file.lyr
+./antman/antman
+./giantman/giantman
+test.lyr
+tmp
+file
+.vscode
+file1
+c
+compressed.data
+uncompressed.data
+commit
+html
+compress
+decompress
